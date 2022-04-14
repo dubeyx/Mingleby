@@ -1,3 +1,8 @@
+
+Decentralized Blockchain-based Dating Web Application. When a user creates a profile a corresponding NFT is created for his Photo. You can authenticate using the user Rinkeyby faucet. Used Moralis to deploy the project. We are using Sanity.io at the backend. When two users Match then it creates a corresponding NFT for it. We are using OpenZappelin for complying our project with ERC127. Most Amazing thing is that this employs a Gaseless transations.
+
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
